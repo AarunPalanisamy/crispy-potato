@@ -580,7 +580,7 @@ section{
 @media(max-width:768px){
 
   #menu-bar{
-    display: initial;
+    display:inherit;
   }
 
   .header-2 .navbar{
