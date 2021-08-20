@@ -282,6 +282,7 @@ section{
 }
 
 .product .box-container .box .discount{
+  cursor: pointer;
   position: absolute;
   top:1rem; left: 1rem;
   background:rgba(0,255,0,.1);
@@ -289,7 +290,6 @@ section{
   padding:.7rem 1rem;
   font-size: 2rem;
 }
-
 .product .box-container .box .icons{
   position: absolute;
   top:.5rem; right:-6rem;
